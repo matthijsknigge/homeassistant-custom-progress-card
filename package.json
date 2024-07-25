@@ -1,0 +1,16 @@
+{
+  "name": "homeassistant-custom-progress-card",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lit-element": "^4.0.6",
+    "lit-html": "^3.1.4"
+  }
+}
